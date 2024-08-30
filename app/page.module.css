@@ -1,0 +1,11 @@
+.heading{
+    padding: .5em;
+    border-bottom:solid black 1px;
+}
+
+.portfolio{
+    
+    list-style-type: none;
+    margin: 0;
+}
+
